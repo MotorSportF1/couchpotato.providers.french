@@ -14,9 +14,10 @@ Move the file **namer_check.py** to ***couchpotato\core\helpers*** directory.
 Once installed, go about activating the provider as you would with any other provider in CouchPotato admin panel.
 
 ### Imports from
-- cpasbien:	https://github.com/Snipees/couchpotato.providers.french.git
-- t411:		https://github.com/TimmyOtool/t411.git
-- torrent9:	https://github.com/TimmyOtool/torrent9.git
+- cpasbien:		https://github.com/Snipees/couchpotato.providers.french.git
+- t411:			https://github.com/TimmyOtool/t411.git
+- torrent9:		https://github.com/TimmyOtool/torrent9.git
+- namer_check:	https://github.com/TimmyOtool/namer_check
 
 ---
 
@@ -37,6 +38,7 @@ Déplacer/copier le fichier **namer_check.py** dans le dossier ***couchpotato\co
 Dès que le plugin est installé, activez le fournisseur comme n'importe quel autre depuis le paramétrage de CouchPotato.
 
 ### Importés depuis
-- cpasbien:	https://github.com/Snipees/couchpotato.providers.french.git
-- t411:		https://github.com/TimmyOtool/t411.git
-- torrent9:	https://github.com/TimmyOtool/torrent9.git
+- cpasbien:		https://github.com/Snipees/couchpotato.providers.french.git
+- t411:			https://github.com/TimmyOtool/t411.git
+- torrent9:		https://github.com/TimmyOtool/torrent9.git
+- namer_check:	https://github.com/TimmyOtool/namer_check
