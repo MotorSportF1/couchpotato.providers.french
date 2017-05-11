@@ -1,4 +1,4 @@
-# couchpotato.providers.frenchcouchpotato.providers.french
+couchpotato.providers.french
 ============================
 
 **T411** & **CPasBien** & **torrent9** (French) Torrents Providers integration into CouchPotato
